@@ -1,7 +1,6 @@
 //Mindula Dilthushan
 //layered Architecture Theory Example
 //Loos Coupling
-
 package LoosCoupling;
 
 public class A implements SuperA {
