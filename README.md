@@ -16,5 +16,5 @@
 
 <div align="center">
 
-<img src="https://github.com/Mindula-Dilthushan/Layered-Architecture-Theory-Example/blob/master/SharedScreenshot.jpg" width="500px" height="500px">
+<img src="https://github.com/Mindula-Dilthushan/Layered-Architecture-Theory-Example/blob/master/SharedScreenshot.jpg" width="600px">
 </div>
