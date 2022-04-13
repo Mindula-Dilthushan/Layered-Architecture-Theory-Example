@@ -27,3 +27,7 @@ git clone https://github.com/Mindula-Dilthushan/Layered-Architecture-Theory-Exam
 
 ![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/Layered-Architecture-Theory-Example?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
 ![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/Layered-Architecture-Theory-Example?&labelColor=black&color=8854d0&style=for-the-badge)
+
+### License 📝
+[![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/Layered-Architecture-Theory-Example?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Mindula-Dilthushan/Layered-Architecture-Theory-Example/blob/license/LICENSE)
+
