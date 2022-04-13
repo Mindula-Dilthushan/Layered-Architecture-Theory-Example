@@ -12,8 +12,9 @@
    - Setter Method Injection.
    - Interface Through Injection.
 
+###
 
 <div align="center">
 
-<img src="https://github.com/Mindula-Dilthushan/Layered-Architecture-Theory-Example/blob/master/SharedScreenshot.jpg">
+<img src="https://github.com/Mindula-Dilthushan/Layered-Architecture-Theory-Example/blob/master/SharedScreenshot.jpg" width="500px" height="500px">
 </div>
